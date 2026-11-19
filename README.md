@@ -6,7 +6,7 @@ I enjoy building backend systems in **Java and Spring Boot** and applications th
 
 - 🔭 Currently building with **Java, Spring Boot, FastAPI and Next.js**
 - 🌱 Sharpening **data structures & algorithms in Java** and exploring **microservices**
-- 🤝 Open to **Software Engineering roles and internships** (2027 batch)
+- 🤝 Open to **Software Engineering (SDE) and AI Engineering roles and internships** (2027 batch)
 - 📍 Hyderabad, India
 
 ---
@@ -70,12 +70,3 @@ I enjoy building backend systems in **Java and Spring Boot** and applications th
 - 🧩 **LeetCode** rating 1570 (Java) · **InterviewBit** University Rank 18
 - 🏁 **Finalist**, HACCKXTREME'26 · **Finalist**, Sudhee 2026 (CBIT)
 - 🤖 **Shortlisted**, Largest Agentic AI Hackathon (Guinness World Record, 2025)
-
----
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MehveenFatima&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehveenFatima&layout=compact&hide_border=true" alt="Top languages" />
-</p>
