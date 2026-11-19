@@ -60,3 +60,13 @@ I enjoy building backend systems in **Java and Spring Boot** and applications th
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **NPTEL – User-Centric Computing for HCI:** Elite + Gold (Top 1%)
+- 🥈 **NPTEL – Data Science for Engineers:** Elite + Silver
+- 🧩 **LeetCode** rating 1570 (Java) · **InterviewBit** University Rank 18
+- 🏁 **Finalist**, HACCKXTREME'26 · **Finalist**, Sudhee 2026 (CBIT)
+- 🤖 **Shortlisted**, Largest Agentic AI Hackathon (Guinness World Record, 2025)
